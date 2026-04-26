@@ -5,6 +5,15 @@ Bu proje [Semantic Versioning](https://semver.org/lang/tr/) kullanmaktadır.
 
 ---
 
+## [1.1.0] — 2026-04-26
+
+### ✨ İyileştirmeler ve Yenilikler
+- 🤖 **Gemini 3.1 Flash Lite:** Analiz motoru en yeni ve hızlı Gemini 3.1 modeline güncellendi.
+- 📁 **Dosya Yapısı Optimizasyonu:** Firebase App Hosting uyumluluğu için tüm proje dosyaları ana dizine taşındı.
+- 🚀 **Dağıtım Kararlılığı:** Derleme hataları giderildi ve canlı ortam performansı artırıldı.
+
+---
+
 ## [1.0.0] — 2026-04-26
 
 ### 🎉 İlk Sürüm (Initial Release)
