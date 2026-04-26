@@ -113,7 +113,7 @@ En Kötü IP: ${worstNode.ip}`;
     }
 
     const response = await ai.models.generateContent({
-      model: "gemini-3.1-flash-lite",
+      model: "gemini-1.5-flash",
       contents: prompt,
     });
 
