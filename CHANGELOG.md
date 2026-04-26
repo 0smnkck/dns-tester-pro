@@ -5,6 +5,16 @@ Bu proje [Semantic Versioning](https://semver.org/lang/tr/) kullanmaktadır.
 
 ---
 
+## [1.2.0] — 2026-04-26
+
+### ✨ Final Üretim Sürümü (Final Production)
+- 🌐 **Canlı Uygulama:** Uygulama başarıyla Firebase App Hosting üzerinden yayına alındı.
+- 📝 **Dokümantasyon:** `README.md` dosyası canlı URL, güncel dosya yapısı ve Gemini 3.1 bilgileriyle tamamen yenilendi.
+- 🛠️ **Kod Temizliği:** Kullanılmayan tüm dosyalar ve güvenlik açığı oluşturabilecek geçici kodlar temizlendi.
+- 🤖 **Stabil AI:** `gemini-3.1-flash-lite-preview` modeli ile analiz sistemi stabilize edildi.
+
+---
+
 ## [1.1.0] — 2026-04-26
 
 ### ✨ İyileştirmeler ve Yenilikler
