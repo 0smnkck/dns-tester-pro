@@ -1,0 +1,16 @@
+{
+  "name": "DNS Tester Pro",
+  "short_name": "DNSTester",
+  "description": "Özel Ağ Performans Analizi Aracı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
